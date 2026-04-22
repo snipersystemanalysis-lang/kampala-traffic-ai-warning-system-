@@ -180,11 +180,7 @@ For issues or questions:
 
 Check the Project_Manual.pdf included in this repository
 
-Contact the system developer
+Contact the system developer for more information
 
 KAKANYERO DEOGRACIOUS +256 755 684998
 NGOROK EMMANUEL MORGAN +256 0705015316
-
-
-
-emmymorgan1278@gmail.com
