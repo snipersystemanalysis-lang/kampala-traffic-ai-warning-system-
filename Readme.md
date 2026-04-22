@@ -62,13 +62,13 @@ text
 
 1. Open your web browser and go to: `http://localhost/phpmyadmin`
 2. Click **New** on the left sidebar to create a new database
-3. Name the database: `stpaulsss_ai_warning_system`
+3. Name the database: `ai_warning_system`
 4. Click **Create**
 5. Click on the newly created database (left sidebar)
 6. Click the **Import** tab at the top
 7. Click **Choose File** and select the SQL file from your project folder:
    - Navigate to: `traffic-predictor/database/`
-   - Select: `stpaulsss_ai_warning_system (8).sql`
+   - Select: `ai_warning_system.sql`
 8. Scroll down and click **Go** (Import button at bottom)
 9. You should see a success message: "Import has been successfully finished"
 
@@ -118,8 +118,8 @@ You will be redirected to the login page
 Use these credentials to test the system:
 
 Role	Email	Password
-Admin	snipersystemanalysis@gmail.com	Secret@1234$$
-User	john@example.com	password
+Admin	snipersystemanalysis@gmail.com, Password:	Secret@1234$$
+User	jameshuwei093@gmail.com, Password:	Secret@1234$$
 Note for Localhost: Email verification is auto-disabled on XAMPP. Accounts are automatically verified upon registration.
 
 📁 Project Structure
