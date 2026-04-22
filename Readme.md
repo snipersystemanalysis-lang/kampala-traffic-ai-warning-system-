@@ -23,7 +23,7 @@ Follow these step-by-step instructions to run the system on your local machine u
 
 1. Download the project ZIP file from this repository
 2. Extract the ZIP file to your computer
-3. You should see a folder named `kampala-traffic-predictor` or similar
+3. You should see a folder named `project`
 
 ---
 
