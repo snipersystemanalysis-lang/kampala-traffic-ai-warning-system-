@@ -4,7 +4,7 @@ A web-based AI-powered traffic prediction and management system for Kampala, Uga
 
 🌐 **Live Demo:** [https://kampalatrafficaiwarningsystem.ugprice.com/](https://kampalatrafficaiwarningsystem.ugprice.com/)
 
-📘 **Full Project Manual:** Download the `Project_Manual.pdf` included in this repository.
+📘 **Full Project Manual:** Download the `Kampala Traffic Predictor - Project Manual.pdf` included in this repository.
 
 ---
 
@@ -22,7 +22,7 @@ Follow these step-by-step instructions to run the system on your local machine u
 ### Step 1: Download and Extract the Project
 
 1. Download the project ZIP file from this repository
-2. Extract the ZIP file to your computer
+2. Extract the ZIP file (project.zip) to your computer
 3. You should see a folder named `project`
 
 ---
